@@ -1,0 +1,13 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E55A5A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="200" fill="url(#grad3)"/>
+  <circle cx="120" cy="100" r="25" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="180" cy="100" r="25" fill="#FFFFFF" opacity="0.8"/>
+  <path d="M 120 85 Q 150 70 180 85 Q 190 95 180 115 Q 150 130 120 115 Q 110 105 120 85" fill="#FF6B6B"/>
+  <text x="150" y="170" text-anchor="middle" fill="#FFFFFF" font-size="16" font-weight="bold">Creative Kit</text>
+</svg>
